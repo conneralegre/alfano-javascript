@@ -32,7 +32,7 @@
    
    var now = new Date(2015, 04, 5);
 
-   var age
+   var age;
     // My solution
     var mybday = new Date(1989, 03, 06);
     var now = new Date(2015, 04, 5);
