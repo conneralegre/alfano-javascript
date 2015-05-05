@@ -33,5 +33,10 @@
    var now = new Date(2015, 04, 5);
 
    var age
-
-   //how do you get age to output my age?
+    // My solution
+    var mybday = new Date(1989, 03, 06);
+    var now = new Date(2015, 04, 5);
+    var timeDiff = Math.abs(mybday.getTime() - now.getTime());
+    var diffDays = Math.ceil(timeDiff / (1000 * 3600 * 24)); 
+    var diffYears = (diffDays / 365);
+   //how do you get age to output my age? diffYears == 26.095890410958905
