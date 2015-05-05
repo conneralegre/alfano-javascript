@@ -7,7 +7,7 @@
 
     var sentence = 'dogs are ' + dog + ' cats are just ' + cat + ' lions are ' + lion;
 
-    what is the output of sentence?
+    // what is the output of sentence?
 
 #2
 
@@ -16,7 +16,7 @@
     var c " is a cool number";
     var d = (a + b) + c;
 
-    what is the output of d?
+    // what is the output of d?
 
 #3  
 
@@ -24,7 +24,7 @@
     var cent = 100;
     var sentence = 'you are ' + (cent - age) + ' years away from being 100 years old!';
 
-    what is the output of sentence?
+    // what is the output of sentence?
 
 #4
 
